@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: About Me
-excerpt: "Yi-Fan Zhang's Homepage"
+excerpt: "Homepage"
 author_profile: true
 redirect_from: 
   - /about/
