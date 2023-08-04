@@ -5,8 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-[[Google scholar](https://scholar.google.com/citations?user=K-2YxegAAAAJ)] | [[DBLP](https://dblp.uni-trier.de/pid/290/7907.html)]
-
 **2024**
 
 1. [ICSE 2024] Domain Knowledge Matters: Improving Prompts with Fix Templates for Repairing Python Type Errors   <font color="#FF0000 ">(CCF-A)</font><br />  
@@ -33,8 +31,8 @@ _**Shuzheng Gao**_, Hongyu Zhang, Cuiyun Gao and Chaozheng Wang \| [[Arxiv]](htt
 
 4. [TOSEM 2023] Code Structure Guided Transformer for Source Code Summarization   <font color="#FF0000 ">(CCF-A)</font><br />  
 ACM Transactions on Software Engineering and Methodology  
-_**Shuzheng Gao**_, Cuiyun Gao, Yulan He, Jichuan Zeng, Lun Yiu Nie, Xin Xia and Michael R. Lyu \| [[Arxiv]](https://arxiv.org/abs/2104.09340) \| [[Code]](https://github.com/gszsectan/SG-Trans)   
-<font color="#FF0000 ">Presented as a journal-first paper at ASE 2022</font><br />  
+_**Shuzheng Gao**_, Cuiyun Gao, Yulan He, Jichuan Zeng, Lun Yiu Nie, Xin Xia and Michael R. Lyu \| [[Arxiv]](https://arxiv.org/abs/2104.09340) \| [[Code]](https://github.com/gszsectan/SG-Trans)  
+Presented as a journal-first paper at ASE 2022
 
 
 
@@ -47,7 +45,7 @@ Chaozheng Wang*, _**Shuzheng Gao***_, Cuiyun Gao, Pengyun Wang, Wenjie Pei, Luji
 2. [ACAIT 2022] Improving Long-Tailed Classification Via Decoupling and Regularization   
 The 6th Asian Conference on Artificial Intelligence Technology, December 9-11, 2022, Changzhou, China  
  _**Shuzheng Gao***_, Chaozheng Wang*, Cuiyun Gao, Wenjian Luo, Peiyi Han and Qing Liao  
-<font color="#FF0000 ">Best student paper award</font><br />  
+Best student paper award  
 
 3. [TRel 2022] Dynamically Relative Position Encoding-Based Transformer for Automatic Code Edit  <font color="#FF0000 ">(JCR Q1)</font><br />  
 IEEE Transactions on Reliability  
