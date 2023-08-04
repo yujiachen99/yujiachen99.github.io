@@ -18,7 +18,7 @@ The 46th International Conference on Software Engineering, April 14-20, 2024, Li
 - [ASE 2023] What Makes Good In-context Demonstrations for Code Intelligence Tasks with LLMs? <font color='red'>(CCF-A)</font>  
 _**Shuzheng Gao**_, Xin-Cheng Wen, Cuiyun Gao, Wenxuan Wang and Michael R Lyu  
 The 38th International Conference on Automated Software Engineering, September 11-15, 2023, Kirchberg, Luxembourg   
-[[Arxiv]](https://arxiv.org/abs/2304.07575) \| [[Code]](https://github.com/gszsectan/ICL) 
+[[Arxiv]](https://arxiv.org/abs/2304.07575) \| [[Code]](https://github.com/shuzhenggao/ICL) 
 
 
 
@@ -36,7 +36,7 @@ The 45th International Conference on Software Engineering, May 14-20, 2023, Melb
 - [TOSEM 2023] Code Structure Guided Transformer for Source Code Summarization <font color='red'>(CCF-A)</font>  
  _**Shuzheng Gao**_, Cuiyun Gao, Yulan He, Jichuan Zeng, Lun Yiu Nie, Xin Xia and Michael R. Lyu  
 ACM Transactions on Software Engineering and Methodology  
-Presented as a journal-first paper at ASE 2022 \| [[Arxiv]](https://arxiv.org/abs/2104.09340) \| [[Code]](https://github.com/gszsectan/SG-Trans)  
+Presented as a journal-first paper at ASE 2022 \| [[Arxiv]](https://arxiv.org/abs/2104.09340) \| [[Code]](https://github.com/shuzhenggao/SG-Trans)  
 
 
 
