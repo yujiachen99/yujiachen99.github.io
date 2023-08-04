@@ -11,9 +11,9 @@ title                    : "Shuzheng Gao"
 title_separator          : "-"
 name                     : &name "Shuzheng Gao"
 description              : &description "The first year Ph.D. student @ARISE, CUHK, advised by Prof. Michael R. Lyu."
-url                      : https://szgao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://gszsectan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "gszsectan/szgao.github.io" # TODO
+repository               : "gszsectan/gszsectan.github.io" # TODO
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
