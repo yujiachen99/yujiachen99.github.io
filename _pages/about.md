@@ -48,22 +48,6 @@ _**Shuzheng Gao**_, Hongyu Zhang, Cuiyun Gao and Chaozheng Wang \| [[Arxiv]](htt
 - [TOSEM 2023] Code Structure Guided Transformer for Source Code Summarization   <font color="#FF0000 ">(CCF-A)</font>  
 _**Shuzheng Gao**_, Cuiyun Gao, Yulan He, Jichuan Zeng, Lun Yiu Nie, Xin Xia and Michael R. Lyu \| [[Arxiv]](https://arxiv.org/abs/2104.09340) \| [[Code]](https://github.com/gszsectan/SG-Trans)   
 
-
-# Teaching
-Courses I served as a teaching assistant.  
-- COMP 2005 Digital Logic Design:
-  - 2021 Fall, School of Computer Science and Technology, Harbin institute of technology, Shenzhen (With Prof. Cuiyun Gao)
-
-# Academic service
-
-- Journal reviewer (With Prof. Cuiyun Gao):
-  - TOSEM, TASLP, TSE
-  
-
-- Conference reviewer (With Prof. Cuiyun Gao): 
-  - ASE 2023, Internetware 2023, ICSE-NIER 2023, ICSME 2022, SANER 2022, ASE-tool 2022, IJCAI 2022
-
-
 # Selected Awards
 
 - Postgraduate Studentship Award, CUHK, 2023
