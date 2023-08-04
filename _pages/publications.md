@@ -36,7 +36,7 @@ The 45th International Conference on Software Engineering, May 14-20, 2023, Melb
 - [TOSEM 2023] Code Structure Guided Transformer for Source Code Summarization <font color='red'>(CCF-A)</font>  
  _**Shuzheng Gao**_, Cuiyun Gao, Yulan He, Jichuan Zeng, Lun Yiu Nie, Xin Xia and Michael R. Lyu  
 ACM Transactions on Software Engineering and Methodology  
-<font color='red'>Presented as a journal-first paper at ASE 2022</font> \| [[Arxiv]](https://arxiv.org/abs/2104.09340) \| [[Code]](https://github.com/gszsectan/SG-Trans)  
+Presented as a journal-first paper at ASE 2022 \| [[Arxiv]](https://arxiv.org/abs/2104.09340) \| [[Code]](https://github.com/gszsectan/SG-Trans)  
 
 
 
@@ -51,7 +51,7 @@ IEEE Transactions on Neural Networks and Learning Systems
 - [ACAIT 2022] Improving Long-Tailed Classification Via Decoupling and Regularization     
  _**Shuzheng Gao***_, Chaozheng Wang*, Cuiyun Gao, Wenjian Luo, Peiyi Han and Qing Liao  
 The 6th Asian Conference on Artificial Intelligence Technology, December 9-11, 2022, Changzhou, China  
-<font color='red'>Best student paper award</font>  
+Best student paper award  
 
 - [TRel 2022] Dynamically Relative Position Encoding-Based Transformer for Automatic Code Edit <font color='red'>(JCR Q1)</font>  
 Shiyi Qi, Yaoxian Li, Cuiyun Gao, Xiaohong Su, _**Shuzheng Gao**_, Zibin Zheng and Chuanyi Liu  
