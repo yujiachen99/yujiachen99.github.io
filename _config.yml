@@ -11,9 +11,9 @@ title                    : "Shuzheng Gao"
 title_separator          : "-"
 name                     : &name "Shuzheng Gao"
 description              : &description "The first year Ph.D. student @ARISE, CUHK, advised by Prof. Michael R. Lyu."
-url                      : https://gszsectan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://shuzhenggao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "gszsectan/gszsectan.github.io" # TODO
+repository               : "shuzhenggao/shuzhenggao.github.io" # TODO
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "gszsectan"
+  github           : "shuzhenggao"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : #"hanlin-zhang-931b46143/"
+  linkedin         : 
   #orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"HanlinZhang_"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
