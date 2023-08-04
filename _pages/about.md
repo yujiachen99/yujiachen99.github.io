@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I'm a first year Ph.D. student at the Department of Computer Science and Engineering, [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/chinese/index.html), advised by Prof. [Michael R. Lyu](http://www.cse.cuhk.edu.hk/lyu/home). I got my Master's degree from Harbin Institute of Technology Shenzhen in June 2023, under the supervision of Prof. [Cuiyun Gao](https://cuiyungao.github.io/). Before that, I received my Bachelor's degree from Harbin Institute of Technology Weihai in June 2021.
+I'm a first-year Ph.D. student at the Department of Computer Science and Engineering, [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/chinese/index.html), advised by Prof. [Michael R. Lyu](http://www.cse.cuhk.edu.hk/lyu/home). I got my Master's degree from Harbin Institute of Technology Shenzhen in June 2023, under the supervision of Prof. [Cuiyun Gao](https://cuiyungao.github.io/). Before that, I received my Bachelor's degree from Harbin Institute of Technology Weihai in June 2021.
 
-My research mainly focuses on software engineering and code intelligence. Code intelligence leverages artificial intelligence techniques to analyze and generate source code, which could benefit a variety of software engineering activities and tasks such as program repair, defect detection, and code summarization etc. Besides, I also have a wide interest in the development of code intelligence models in real-world scenario and the development of Large Language Models (LLMs) for software engineering. Specifically, my research interest lies in the span of the following topics:
+My research mainly focuses on software engineering and code intelligence. Code Intelligence leverages artificial intelligence techniques to analyze and generate source code, which could benefit a variety of software engineering activities and tasks such as program repair, defect detection, code summarization, etc. Besides, I also have a wide interest in the development of code intelligence models in real-world scenarios and the development of Large Language Models (LLMs) for software engineering. Specifically, my research interest lies in the span of the following topics:
 
 1. Code analysis and generation: code representation learning, code generation, static analysis
 
-2. Code intelligence in real-world scenario: robustness, data imbalance, continual learning
+2. Code intelligence in real-world scenarios: robustness, data imbalance, continual learning
 
 3. LLM for software engineering: in-context learning, chain of thought, tool using
 
