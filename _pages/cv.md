@@ -12,11 +12,11 @@ Education
 ======
 * Ph.D. in Computer Science and Engineering, 2023-2027 (expected)
   * The Chinese University of Hong Kong, Hong Kong, China
-  * Supervisor: Prof. Michael R. Lyu
+  * Supervisor: Prof. [Michael R. Lyu](http://www.cse.cuhk.edu.hk/lyu/home)
   
 * M.E. in Computer Science and Technology, 2021-2023
   * Harbin Institute of Technology, Shenzhen, China
-  * Supervisor: Prof. Cuiyun Gao
+  * Supervisor: Prof. [Cuiyun Gao](https://cuiyungao.github.io/)
 
 * B.E. in Cyberspace Security, 2017-2021
   * Harbin Institute of Technology, Weihai, China
