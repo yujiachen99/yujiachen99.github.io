@@ -40,7 +40,7 @@ Experience
 # Teaching
 Courses I served as a teaching assistant.  
 - COMP 2005 Digital Logic Design:
-  - 2021 Fall, School of Computer Science and Technology, Harbin institute of technology, Shenzhen (With Prof. Cuiyun Gao)
+  - 2021 Fall, School of Computer Science and Technology, Harbin institute of technology, Shenzhen  
 
 # Academic service
 
