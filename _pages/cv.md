@@ -42,6 +42,7 @@ Courses I served as a teaching assistant.
 - COMP 2005 Digital Logic Design:
   - 2021 Fall, School of Computer Science and Technology, Harbin institute of technology, Shenzhen  
 
+<div style='display: none'>
 # Academic service
 
 - Journal reviewer (With Prof. Cuiyun Gao):
@@ -50,6 +51,7 @@ Courses I served as a teaching assistant.
 
 - Conference reviewer (With Prof. Cuiyun Gao): 
   - ASE 2023, Internetware 2023, ICSE-NIER 2023, ICSME 2022, SANER 2022, ASE-tool 2022, IJCAI 2022
+</div>
 
 
 Honors and Awards
