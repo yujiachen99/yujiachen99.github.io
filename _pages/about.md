@@ -39,7 +39,7 @@ _**Shuzheng Gao**_, Xin-Cheng Wen, Cuiyun Gao, Wenxuan Wang and Michael R Lyu \|
 - **[ICSE'24]** Domain Knowledge Matters: Improving Prompts with Fix Templates for Repairing Python Type Errors   <font color="#FF0000 ">(CCF-A)</font>  
 Yun Peng, _**Shuzheng Gao**_, Cuiyun Gao, Yintong Huo and Michael R. Lyu \| [[Arxiv]](https://arxiv.org/abs/2306.01394) \| [[Code]](https://github.com/JohnnyPeng18/TypeFix) 
 
-- **[ICSE'24]** Two Sides of the Same Coin: Exploiting the Impact of Identifiers in Neural Code Comprehension   <font color="#FF0000 ">(CCF-A)</font>  
+- **[ICSE'23]** Two Sides of the Same Coin: Exploiting the Impact of Identifiers in Neural Code Comprehension   <font color="#FF0000 ">(CCF-A)</font>  
 _**Shuzheng Gao**_, Xin-Cheng Wen, Cuiyun Gao, Wenxuan Wang and Michael R Lyu \| [[Arxiv]](https://arxiv.org/abs/2207.11104) \| [[Code]](https://github.com/ReliableCoding/CREAM) 
 
 
