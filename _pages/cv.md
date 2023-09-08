@@ -40,7 +40,10 @@ Experience
 # Teaching
 Courses I served as a teaching assistant.  
 - COMP 2005 Digital Logic Design:
-  - 2021 Fall, School of Computer Science and Technology, Harbin institute of technology, Shenzhen  
+  - 2021 Fall, School of Computer Science and Technology, Harbin institute of technology, Shenzhen
+
+- ENGG 1100C Problem Solving By Programming:
+  - 2023 Fall, Department of Computer Science and Engineering, The Chinese University of Hong Kong  
 
 <div style='display: none'>
 # Academic service
