@@ -20,7 +20,9 @@ _**Shuzheng Gao**_, Xin-Cheng Wen, Cuiyun Gao, Wenxuan Wang and Michael R Lyu
 The 38th International Conference on Automated Software Engineering, September 11-15, 2023, Kirchberg, Luxembourg   
 [[Arxiv]](https://arxiv.org/abs/2304.07575) \| [[Code]](https://github.com/shuzhenggao/ICL) 
 
-
+- **[ASE-Inch'23]** REEF: A Framework for Collecting Real-World Vulnerabilities and Fixes  
+Chaozheng Wang, Zongjie Li, Yun Peng, _**Shuzheng Gao**_, Sirong Chen, Shuai Wang, Cuiyun Gao, Michael R. Lyu
+The 38th International Conference on Automated Software Engineering (Industry Challenge Track), September 11-15, 2023, Kirchberg, Luxembourg   
 
 - **[ICSE'23]** Two Sides of the Same Coin: Exploiting the Impact of Identifiers in Neural Code Comprehension <font color='red'>(CCF-A)</font>  
 _**Shuzheng Gao**_, Xin-Cheng Wen, Cuiyun Gao, Wenxuan Wang and Michael R Lyu  
@@ -36,7 +38,7 @@ The 45th International Conference on Software Engineering, May 14-20, 2023, Melb
 - **[TOSEM'23]** Code Structure Guided Transformer for Source Code Summarization <font color='red'>(CCF-A)</font>  
  _**Shuzheng Gao**_, Cuiyun Gao, Yulan He, Jichuan Zeng, Lun Yiu Nie, Xin Xia and Michael R. Lyu  
 ACM Transactions on Software Engineering and Methodology  
-Presented as a journal-first paper at ASE 2022 \| [[Arxiv]](https://arxiv.org/abs/2104.09340) \| [[Code]](https://github.com/shuzhenggao/SG-Trans)  
+[[Arxiv]](https://arxiv.org/abs/2104.09340) \| [[Code]](https://github.com/shuzhenggao/SG-Trans) \| Presented as a journal-first paper at ASE 2022 
 
 
 
