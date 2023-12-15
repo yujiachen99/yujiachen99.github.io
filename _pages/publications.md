@@ -27,8 +27,7 @@ The 38th International Conference on Automated Software Engineering, September 1
 - **[ASE-Inch'23]** REEF: A Framework for Collecting Real-World Vulnerabilities and Fixes  
 Chaozheng Wang, Zongjie Li, Yun Peng, _**Shuzheng Gao**_, Sirong Chen, Shuai Wang, Cuiyun Gao, Michael R. Lyu
 The 38th International Conference on Automated Software Engineering (Industry Challenge Track), September 11-15, 2023, Kirchberg, Luxembourg   
-[[Arxiv]](https://arxiv.org/abs/2309.08115) \| [[Code]](https://github.com/ASE-REEF/REEF-script)   
-Distinguished Paper Award  
+[[Arxiv]](https://arxiv.org/abs/2309.08115) \| [[Code]](https://github.com/ASE-REEF/REEF-script) \| Distinguished Paper Award  
 
 - **[ICSE'23]** Two Sides of the Same Coin: Exploiting the Impact of Identifiers in Neural Code Comprehension <font color='red'>(CCF-A)</font>  
 _**Shuzheng Gao**_, Xin-Cheng Wen, Cuiyun Gao, Wenxuan Wang and Michael R Lyu  
@@ -52,7 +51,7 @@ ACM Transactions on Software Engineering and Methodology
 **2022**
 
 - **[TNNLS'22]** Label-Aware Distribution Calibration for Long-tailed Classification <font color='red'>(CCF-B)</font>  
-Chaozheng Wang*, _**Shuzheng Gao***_, Cuiyun Gao, Pengyun Wang, Wenjie Pei, Lujia Pan and Zenglin Xu  
+Chaozheng Wang*, _**Shuzheng Gao**_*, Cuiyun Gao, Pengyun Wang, Wenjie Pei, Lujia Pan and Zenglin Xu  
 IEEE Transactions on Neural Networks and Learning Systems   
 [[Arxiv]](https://arxiv.org/abs/2111.04901)
 
