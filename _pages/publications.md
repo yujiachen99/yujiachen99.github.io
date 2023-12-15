@@ -7,6 +7,10 @@ author_profile: true
 
 **2024**
 
+- **[ICSE'24]** Learning in the Wild: Towards Leveraging Unlabeled Data for  Effectively Tuning Pre-trained Code Models <font color='red'>(CCF-A)</font>   
+_**Shuzheng Gao**_, Wenxin Mao, Cuiyun Gao, Li Li, Xing Hu, Xin Xia and Michael R. Lyu  
+The 46th International Conference on Software Engineering, April 14-20, 2024, Lisbon, Portugal  
+
 - **[ICSE'24]** Domain Knowledge Matters: Improving Prompts with Fix Templates for Repairing Python Type Errors <font color='red'>(CCF-A)</font>   
 Yun Peng, _**Shuzheng Gao**_, Cuiyun Gao, Yintong Huo and Michael R. Lyu  
 The 46th International Conference on Software Engineering, April 14-20, 2024, Lisbon, Portugal  
@@ -23,6 +27,8 @@ The 38th International Conference on Automated Software Engineering, September 1
 - **[ASE-Inch'23]** REEF: A Framework for Collecting Real-World Vulnerabilities and Fixes  
 Chaozheng Wang, Zongjie Li, Yun Peng, _**Shuzheng Gao**_, Sirong Chen, Shuai Wang, Cuiyun Gao, Michael R. Lyu
 The 38th International Conference on Automated Software Engineering (Industry Challenge Track), September 11-15, 2023, Kirchberg, Luxembourg   
+[[Arxiv]](https://arxiv.org/abs/2309.08115) \| [[Code]](https://github.com/ASE-REEF/REEF-script)   
+Distinguished Paper Award  
 
 - **[ICSE'23]** Two Sides of the Same Coin: Exploiting the Impact of Identifiers in Neural Code Comprehension <font color='red'>(CCF-A)</font>  
 _**Shuzheng Gao**_, Xin-Cheng Wen, Cuiyun Gao, Wenxuan Wang and Michael R Lyu  
