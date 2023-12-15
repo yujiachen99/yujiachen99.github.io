@@ -32,6 +32,8 @@ My research mainly focuses on software engineering and code intelligence. Code I
 
 # Selected Publications 
 
+- **[ICSE'24]** Learning in the Wild: Towards Leveraging Unlabeled Data for Effectively Tuning Pre-trained Code Models   <font color="#FF0000 ">(CCF-A)</font>  
+_**Shuzheng Gao**_, Wenxin Mao, Cuiyun Gao, Li Li, Xing Hu, Xin Xia and Michael R. Lyu  
 
 - **[ASE'23]** What Makes Good In-context Demonstrations for Code Intelligence Tasks with LLMs?   <font color="#FF0000 ">(CCF-A)</font>  
 _**Shuzheng Gao**_, Xin-Cheng Wen, Cuiyun Gao, Wenxuan Wang and Michael R Lyu \| [[Arxiv]](https://arxiv.org/abs/2304.07575) \| [[Code]](https://github.com/gszsectan/ICL) 
