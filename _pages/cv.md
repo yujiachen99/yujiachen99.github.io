@@ -61,6 +61,7 @@ Honors and Awards
 ======
 
 - Postgraduate Studentship Award, CUHK, 2023.
+- Distinguished Paper Award, ASE-Inch, 2023.
 - Binxing Fang Scholarship, 2023.
 - Best Student Paper Award, ACAIT, 2022.
 - First Prize Postgraduate Scholarship, HITSZ 2022.
