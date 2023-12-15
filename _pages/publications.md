@@ -51,12 +51,12 @@ ACM Transactions on Software Engineering and Methodology
 **2022**
 
 - **[TNNLS'22]** Label-Aware Distribution Calibration for Long-tailed Classification <font color='red'>(CCF-B)</font>  
-Chaozheng Wang*, _**Shuzheng Gao**_*, Cuiyun Gao, Pengyun Wang, Wenjie Pei, Lujia Pan and Zenglin Xu  
+Chaozheng Wang\*, _**Shuzheng Gao**_\*, Cuiyun Gao, Pengyun Wang, Wenjie Pei, Lujia Pan and Zenglin Xu  
 IEEE Transactions on Neural Networks and Learning Systems   
 [[Arxiv]](https://arxiv.org/abs/2111.04901)
 
 - **[ACAIT'22]** Improving Long-Tailed Classification Via Decoupling and Regularization     
- _**Shuzheng Gao***_, Chaozheng Wang*, Cuiyun Gao, Wenjian Luo, Peiyi Han and Qing Liao  
+ _**Shuzheng Gao**_\*, Chaozheng Wang\*, Cuiyun Gao, Wenjian Luo, Peiyi Han and Qing Liao  
 The 6th Asian Conference on Artificial Intelligence Technology, December 9-11, 2022, Changzhou, China  
 Best student paper award  
 
