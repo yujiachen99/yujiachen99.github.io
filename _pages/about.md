@@ -25,8 +25,8 @@ My research mainly focuses on software engineering and code intelligence. Code I
 
 
 #  News
+- *2023.12* 🎉🎉 One Paper "Learning in the Wild: Towards Leveraging Unlabeled Data for Effectively Tuning Pre-trained Code Models" is accepted by ICSE 2024!
 - *2023.07* 🎉🎉 One Paper "What Makes Good In-context Demonstrations for Code Intelligence Tasks with LLMs?" is accepted by ASE 2023!
-- *2023.06* 🎉🎉 I graduate from Harbin Institute of Technology as a master student!
 - *2023.06* 🎉🎉 One Paper "Domain Knowledge Matters: Improving Prompts with Fix Templates for Repairing Python Type Errors" is accepted by ICSE 2024!
 - *2022.12* 🎉🎉 Two papers "Two Sides of the Same Coin: Exploiting the Impact of Identifiers in Neural Code Comprehension" and "Keeping Pace with Ever-Increasing Data: Towards Continual Learning of Code Intelligence Models" are accepted by ICSE 2023!
 
@@ -53,6 +53,7 @@ _**Shuzheng Gao**_, Cuiyun Gao, Yulan He, Jichuan Zeng, Lun Yiu Nie, Xin Xia and
 # Selected Awards
 
 - Postgraduate Studentship Award, CUHK, 2023
+- Distinguished Paper Award, ASE-Inch, 2023
 - Binxing Fang Scholarship, 2023
 - Best Student Paper Award, ACAIT, 2022
 - Outstanding Graduates of Harbin Institute of Technology, 2021
