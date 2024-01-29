@@ -20,20 +20,19 @@ The 46th International Conference on Software Engineering, April 14-20, 2024, Li
 **2023**
 
 - **[ASE'23]** What Makes Good In-context Demonstrations for Code Intelligence Tasks with LLMs? <font color='red'>(CCF-A)</font>  
-_**Shuzheng Gao**_, Xin-Cheng Wen, Cuiyun Gao, Wenxuan Wang and Michael R Lyu  
+_**Shuzheng Gao**_, Xin-Cheng Wen, Cuiyun Gao, Wenxuan Wang, Hongyu Zhang and Michael R. Lyu  
 The 38th International Conference on Automated Software Engineering, September 11-15, 2023, Kirchberg, Luxembourg   
 [[Arxiv]](https://arxiv.org/abs/2304.07575) \| [[Code]](https://github.com/shuzhenggao/ICL) 
 
 - **[ASE-Inch'23]** REEF: A Framework for Collecting Real-World Vulnerabilities and Fixes  
-Chaozheng Wang, Zongjie Li, Yun Peng, _**Shuzheng Gao**_, Sirong Chen, Shuai Wang, Cuiyun Gao, Michael R. Lyu
+Chaozheng Wang, Zongjie Li, Yun Peng, _**Shuzheng Gao**_, Sirong Chen, Shuai Wang, Cuiyun Gao and Michael R. Lyu  
 The 38th International Conference on Automated Software Engineering (Industry Challenge Track), September 11-15, 2023, Kirchberg, Luxembourg   
 [[Arxiv]](https://arxiv.org/abs/2309.08115) \| [[Code]](https://github.com/ASE-REEF/REEF-script) \| Distinguished Paper Award  
 
 - **[ICSE'23]** Two Sides of the Same Coin: Exploiting the Impact of Identifiers in Neural Code Comprehension <font color='red'>(CCF-A)</font>  
-_**Shuzheng Gao**_, Xin-Cheng Wen, Cuiyun Gao, Wenxuan Wang and Michael R Lyu  
+_**Shuzheng Gao**_, Cuiyun Gao, Chaozheng Wang, Jun Sun, David Lo and Yue Yu  
 The 45th International Conference on Software Engineering, May 14-20, 2023, Melbourne, Australia   
 [[Arxiv]](https://arxiv.org/abs/2207.11104) \| [[Code]](https://github.com/ReliableCoding/CREAM)  
-
 
 - **[ICSE'23]** Keeping Pace with Ever-Increasing Data: Towards Continual Learning of Code Intelligence Models <font color='red'>(CCF-A)</font>   
 _**Shuzheng Gao**_, Hongyu Zhang, Cuiyun Gao and Chaozheng Wang  
