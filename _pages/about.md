@@ -36,13 +36,13 @@ My research mainly focuses on software engineering and code intelligence. Code I
 _**Shuzheng Gao**_, Wenxin Mao, Cuiyun Gao, Li Li, Xing Hu, Xin Xia and Michael R. Lyu  
 
 - **[ASE'23]** What Makes Good In-context Demonstrations for Code Intelligence Tasks with LLMs?   <font color="#FF0000 ">(CCF-A)</font>  
-_**Shuzheng Gao**_, Xin-Cheng Wen, Cuiyun Gao, Wenxuan Wang and Michael R Lyu \| [[Arxiv]](https://arxiv.org/abs/2304.07575) \| [[Code]](https://github.com/gszsectan/ICL) 
+_**Shuzheng Gao**_, Xin-Cheng Wen, Cuiyun Gao, Wenxuan Wang, Hongyu Zhang and Michael R. Lyu \| [[Arxiv]](https://arxiv.org/abs/2304.07575) \| [[Code]](https://github.com/gszsectan/ICL) 
 
 - **[ICSE'24]** Domain Knowledge Matters: Improving Prompts with Fix Templates for Repairing Python Type Errors   <font color="#FF0000 ">(CCF-A)</font>  
 Yun Peng, _**Shuzheng Gao**_, Cuiyun Gao, Yintong Huo and Michael R. Lyu \| [[Arxiv]](https://arxiv.org/abs/2306.01394) \| [[Code]](https://github.com/JohnnyPeng18/TypeFix) 
 
 - **[ICSE'23]** Two Sides of the Same Coin: Exploiting the Impact of Identifiers in Neural Code Comprehension   <font color="#FF0000 ">(CCF-A)</font>  
-_**Shuzheng Gao**_, Xin-Cheng Wen, Cuiyun Gao, Wenxuan Wang and Michael R Lyu \| [[Arxiv]](https://arxiv.org/abs/2207.11104) \| [[Code]](https://github.com/ReliableCoding/CREAM) 
+_**Shuzheng Gao**_, Cuiyun Gao, Chaozheng Wang, Jun Sun, David Lo and Yue Yu \| [[Arxiv]](https://arxiv.org/abs/2207.11104) \| [[Code]](https://github.com/ReliableCoding/CREAM) 
 
 
 - **[ICSE'23]** Keeping Pace with Ever-Increasing Data: Towards Continual Learning of Code Intelligence Models   <font color="#FF0000 ">(CCF-A)</font>  
