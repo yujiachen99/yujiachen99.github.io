@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Second-year Ph.D. student in the School of Data Science at [The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen)](https://sds.cuhk.edu.cn/endex.html), advised by Prof. [Yixiang Fang](https://fangyixiang.github.io/), and have a closely connection with Prof. [Chenhao Ma](https://chenhao-ma.github.io/). I got my Master and degree from Harbin Institute of Technology Shenzhen in June 2022, under the supervision of Prof. [Yunming Ye](https://scholar.google.com/citations?user=n30nnskAAAAJ&hl=zh-CN). Before that, I received my Bachelor's degree from Harbin Institute of Technology in June 2020. 
+I'm a Second-year Ph.D. student in the School of Data Science at [The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen)](https://sds.cuhk.edu.cn/endex.html), advised by Prof. [Yixiang Fang](https://fangyixiang.github.io/), and have a closely connection with Prof. [Chenhao Ma](https://chenhao-ma.github.io/). I got my Master degree from Harbin Institute of Technology Shenzhen in June 2022, under the supervision of Prof. [Yunming Ye](https://scholar.google.com/citations?user=n30nnskAAAAJ&hl=zh-CN). Before that, I received my Bachelor's degree from Harbin Institute of Technology in June 2020. 
 
 
 # Interests
