@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shuzheng Gao"
+  name             : "Yingli Zhou"
   avatar           : "me.jpg"
-  bio              : "The first year Ph.D. student @ARISE, CUHK, advised by Prof. Michael R. Lyu."
-  location         : "Hong Kong, China"
+  bio              : "The Second year Ph.D. student @CUHK-Shenzhen, advised by Prof. Yixiang Fang."
+  location         : "Shenzhen, China"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=K-2YxegAAAAJ&hl=zh-CN"
-  email            : "szgao98@gmail.com"
+  # googlescholar    : "https://scholar.google.com/citations?user=K-2YxegAAAAJ&hl=zh-CN"
+  email            : "zhouyingli.hit@gmail.com"
   #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
