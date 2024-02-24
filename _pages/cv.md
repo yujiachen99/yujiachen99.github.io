@@ -10,8 +10,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Computer Science and Engineering, 2023-2027 (expected)
-  * The Chinese University of Hong Kong, Hong Kong, China
+* Ph.D. in Computer Science and Engineering, 2022-2026 (expected)
+  * The Chinese University of Hong Kong, Shenzhen, China
   * Supervisor: Prof. [Michael R. Lyu](http://www.cse.cuhk.edu.hk/lyu/home)
   
 * M.E. in Computer Science and Technology, 2021-2023

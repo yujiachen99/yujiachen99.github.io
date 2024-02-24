@@ -179,9 +179,9 @@ collections:
     output: true
     permalink: /:collection/:path/
   cv:
-    output: true
+    output: false
     permalink: /:collection/:path/
-  projects:
+  service:
     output: false
     permalink: /:collection/:path/
 
