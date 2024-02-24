@@ -28,7 +28,7 @@ My  research interests mainly focus on large-scale data management and data mini
 
 # Selected Publications 
 
-- **<font color="#FF00FF ">(SIGMOD2024)</font>** Learning in the Wild: Towards Leveraging Unlabeled Data for Effectively Tuning Pre-trained Code Models   
+- **<font color="#ea6eaf">[SIGMOD2024]</font>** Learning in the Wild: Towards Leveraging Unlabeled Data for Effectively Tuning Pre-trained Code Models   
 _**Shuzheng Gao**_, Wenxin Mao, Cuiyun Gao, Li Li, Xing Hu, Xin Xia and Michael R. Lyu  
 
 - **[VLDB'23]** What Makes Good In-context Demonstrations for Code Intelligence Tasks with LLMs?   <font color="#FF0000 ">(CCF-A)</font>  
