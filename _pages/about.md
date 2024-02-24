@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a Second-year Ph.D. student in the School of Data Science at [The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen)](https://sds.cuhk.edu.cn/endex.html), advised by Prof. [Yixiang Fang](https://fangyixiang.github.io/), and have a closely connection with Prof. [Chenhao Ma](https://chenhao-ma.github.io/). I got my Master degree from Harbin Institute of Technology Shenzhen in June 2022, under the supervision of Prof. [Yunming Ye](https://scholar.google.com/citations?user=n30nnskAAAAJ&hl=zh-CN). Before that, I received my Bachelor's degree from Harbin Institute of Technology in June 2020. 
 
-
+I am always open for possible collaborations, and visiting opportunities, please do not hesitate to [contact me](yinglizhou@link.cuhk.edu.cn) if you are interested!
 # Interests
 My  research interests mainly focus on large-scale data management and data mining, particularly graph data management and Large Language Models (LLMs) for data management. Specifically, my research interest lies in the span of the following topics:
 
@@ -43,4 +43,4 @@ _**Yingli Zhou**_, Yixiang Fang, Wensheng Luo, Yunming Ye \| [[pdf]](https://www
 - Best teaching assistant, CUHK-Shenzhen, 2023
 - Outstanding Graduates of Harbin Institute of Technology, 2020
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=C6tYBi-zUAcUjn0-KFJV1KaftFhTp2GrOlPaCdmIs9c&cl=ffffff&w=a"></script>
+<!-- <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=C6tYBi-zUAcUjn0-KFJV1KaftFhTp2GrOlPaCdmIs9c&cl=ffffff&w=a"></script> -->

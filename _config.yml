@@ -179,7 +179,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   cv:
-    output: false
+    output: true
     permalink: /:collection/:path/
   service:
     output: false
