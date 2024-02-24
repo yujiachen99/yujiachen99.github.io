@@ -11,15 +11,15 @@ redirect_from:
 I'm a Second-year Ph.D. student in the School of Data Science at [The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen)](https://sds.cuhk.edu.cn/endex.html), advised by Prof. [Yixiang Fang](https://fangyixiang.github.io/), and have a closely connection with Prof. [Chenhao Ma](https://chenhao-ma.github.io/). I got my Master and degree from Harbin Institute of Technology Shenzhen in June 2022, under the supervision of Prof. [Yunming Ye](https://scholar.google.com/citations?user=n30nnskAAAAJ&hl=zh-CN). Before that, I received my Bachelor's degree from Harbin Institute of Technology in June 2020. My  research interests mainly focus on large-scale data management and data mining, particularly graph data management and LLM4data management.
 
 
-<div style='display: none'>
+# Interests
 My research mainly focuses on software engineering and code intelligence. Code Intelligence leverages artificial intelligence techniques to analyze and generate source code, which could benefit a variety of software engineering activities and tasks such as program repair, defect detection, code summarization, etc. Besides, I also have a wide interest in the development of code intelligence models in real-world scenarios and the development of Large Language Models (LLMs) for software engineering. Specifically, my research interest lies in the span of the following topics:
 
-1. Code analysis and generation: code representation learning, code generation, static analysis
+- Code analysis and generation: code representation learning, code generation, static analysis
 
-2. Code intelligence in real-world scenarios: robustness, data imbalance, continual learning
+- Code intelligence in real-world scenarios: robustness, data imbalance, continual learning
 
-3. LLM for software engineering: in-context learning, chain of thought, tool using
-</div>
+- LLM for software engineering: in-context learning, chain of thought, tool using
+
 
 
 
