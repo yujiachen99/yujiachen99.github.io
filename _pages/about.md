@@ -42,4 +42,4 @@ _**Yingli Zhou**_, Yixiang Fang, Wensheng Luo, Yunming Ye \| [[pdf]](https://www
 
 - Best teaching assistant, CUHK-Shenzhen, 2023
 - Outstanding Graduates of Harbin Institute of Technology, 2020
-
+- Outstanding Undergraduate Thesis of Harbin Institute of Technology, 2020
