@@ -23,12 +23,12 @@ My  research interests mainly focus on large-scale data management and data mini
 
 
 #  News
-- *2024.02* 💥💥 One Paper "Efficient 𝑘-Clique Densest Subgraph Discovery" is accepted by SIGMOD 2024!
+- *2024.02* 💥💥 One Paper "A Counting-based Approach for Efficient 𝑘-Clique Densest Subgraph Discovery" is accepted by SIGMOD 2024!
 - *2023.05* 💥💥 One Paper "Influential Community Search over Large Heterogeneous Information Networks" is accepted by VLDB 2023!
 
 # Selected Publications 
 
-- **<font color="#ea6eaf">[SIGMOD2024]</font>** Efficient 𝑘-Clique Densest Subgraph Discovery   
+- **<font color="#ea6eaf">[SIGMOD2024]</font>** A Counting-based Approach for Efficient 𝑘-Clique Densest Subgraph Discovery   
 _**Yingli Zhou**_, Qingshuo Guo, Yixiang Fang, Chenhao Ma 
 
 - **<font color="#ea6eaf">[VLDB2023]</font>** Influential Community Search over Large Heterogeneous Information Networks    
