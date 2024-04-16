@@ -16,7 +16,7 @@ My  research interests mainly focus on large-scale data management and data mini
 
 - Graph data management: community search, cohesive subgraph search,  motif counting, knowledge graph construction
 - Graph mining: densest subgraph discovery, clique algorithm, temporal graph learning
-- LLM for data management: data cleaning, data collection, insight mining
+- LLM for data management: design tools or systems that utilize LLM for data analysis tasks
 
 
 
