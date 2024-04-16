@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 **2024**
-- **<font color="#ea6eaf">[VDLB2024]</font>** Efficient Parallel D-core Decomposition at Scale   
+- **<font color="#ea6eaf">[VLDB2024]</font>** Efficient Parallel D-core Decomposition at Scale   
 _Wensheng Luo_,  Yixiang Fang, Chunxu Lin, **Yingli Zhou**
 
 - **<font color="#ea6eaf">[SIGMOD2024]</font>** A Counting-based Approach for Efficient 𝑘-Clique Densest Subgraph Discovery   

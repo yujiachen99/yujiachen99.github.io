@@ -23,12 +23,12 @@ My  research interests mainly focus on large-scale data management and data mini
 
 
 #  News
-- *2024.04* 💥💥 One Paper "Efficient Parallel D-core Decomposition at Scale" is accepted by VDLB 2024!
+- *2024.04* 💥💥 One Paper "Efficient Parallel D-core Decomposition at Scale" is accepted by VLDB 2024!
 - *2024.02* 💥💥 One Paper "A Counting-based Approach for Efficient 𝑘-Clique Densest Subgraph Discovery" is accepted by SIGMOD 2024!
 - *2023.05* 💥💥 One Paper "Influential Community Search over Large Heterogeneous Information Networks" is accepted by VLDB 2023!
 
 # Selected Publications 
-- **<font color="#ea6eaf">[VDLB2024]</font>** Efficient Parallel D-core Decomposition at Scale   
+- **<font color="#ea6eaf">[VLDB2024]</font>** Efficient Parallel D-core Decomposition at Scale   
 _Wensheng Luo_,  Yixiang Fang, Chunxu Lin, **Yingli Zhou**
 
 - **<font color="#ea6eaf">[SIGMOD2024]</font>** A Counting-based Approach for Efficient 𝑘-Clique Densest Subgraph Discovery   
