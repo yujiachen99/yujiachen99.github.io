@@ -7,7 +7,7 @@ author_profile: true
 
 **2024**
 
-- **<font color="#ea6eaf">[SIGMOD2024]</font>** Efficient 𝑘-Clique Densest Subgraph Discovery   
+- **<font color="#ea6eaf">[SIGMOD2024]</font>** A Counting-based Approach for Efficient 𝑘-Clique Densest Subgraph Discovery   
 _**Yingli Zhou**_, Qingshuo Guo, Yixiang Fang, Chenhao Ma 
  
 

@@ -23,12 +23,15 @@ My  research interests mainly focus on large-scale data management and data mini
 
 
 #  News
-- *2024.02* 💥💥 One Paper "Efficient 𝑘-Clique Densest Subgraph Discovery" is accepted by SIGMOD 2024!
+- *2024.04* 💥💥 One Paper "Efficient Parallel D-core Decomposition at Scale" is accepted by VDLB 2024!
+- *2024.02* 💥💥 One Paper "A Counting-based Approach for Efficient 𝑘-Clique Densest Subgraph Discovery" is accepted by SIGMOD 2024!
 - *2023.05* 💥💥 One Paper "Influential Community Search over Large Heterogeneous Information Networks" is accepted by VLDB 2023!
 
 # Selected Publications 
+- **<font color="#ea6eaf">[VDLB2024]</font>** Efficient Parallel D-core Decomposition at Scale   
+_Wensheng Luo_,  Yixiang Fang, Chunxu Lin, Yingli Zhou
 
-- **<font color="#ea6eaf">[SIGMOD2024]</font>** Efficient 𝑘-Clique Densest Subgraph Discovery   
+- **<font color="#ea6eaf">[SIGMOD2024]</font>** A Counting-based Approach for Efficient 𝑘-Clique Densest Subgraph Discovery   
 _**Yingli Zhou**_, Qingshuo Guo, Yixiang Fang, Chenhao Ma 
 
 - **<font color="#ea6eaf">[VLDB2023]</font>** Influential Community Search over Large Heterogeneous Information Networks    
@@ -42,5 +45,9 @@ _**Yingli Zhou**_, Yixiang Fang, Wensheng Luo, Yunming Ye \| [[pdf]](https://www
 
 - Best teaching assistant, CUHK-Shenzhen, 2023
 - Outstanding Graduates of Harbin Institute of Technology, 2020
+<<<<<<< HEAD
 
 <!-- <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=C6tYBi-zUAcUjn0-KFJV1KaftFhTp2GrOlPaCdmIs9c&cl=ffffff&w=a"></script> -->
+=======
+- Outstanding Undergraduate Thesis of Harbin Institute of Technology, 2020
+>>>>>>> c62e1cf58899b3779cb3fbd3884c505b71648022
