@@ -4,8 +4,10 @@ main:
     url: /publications/
 
   - title: "Service"
-    url: /service/    
+    url: /service/  
 
+  - title: "Experience & Awards"
+    url: /experience/    
   #- title: "Teaching"
   #  url: /teaching/    
     
