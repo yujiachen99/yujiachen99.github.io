@@ -24,8 +24,8 @@ author_profile: true
   * Working with: [Tiancai Mao](https://github.com/tiancaiamao)
 
 
-Honors and Awards
-======
+## Honors and Awards
+
 
 - Best teaching assistant, CUHK-Shenzhen, 2023
 - Alibaba OceanBase Competition Second Place Award, 2021
