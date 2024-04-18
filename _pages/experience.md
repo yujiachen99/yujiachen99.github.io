@@ -29,11 +29,10 @@ Experience
 Honors and Awards
 ======
 
-- Postgraduate Studentship Award, CUHK, 2023.
-- Distinguished Paper Award, ASE-Inch, 2023.
-- Binxing Fang Scholarship, 2023.
-- Best Student Paper Award, ACAIT, 2022.
-- First Prize Postgraduate Scholarship, HITSZ 2022.
-- Outstanding Graduates of Harbin Institute of Technology, 2021.
-- Meritorious Winner, Mathematics Contest in Modeling, 2020.
-- National Scholarship, Ministry of Education 2019.
+- Best teaching assistant, CUHK-Shenzhen, 2023
+- Alibaba OceanBase Competition Second Place Award, 2021
+- Outstanding Graduates of Harbin Institute of Technology, 2020
+- Outstanding Undergraduate Thesis of Harbin Institute of Technology, 2020
+- HIT People Scholarship Award, 2019
+- Outstanding Student Leader Award at HIT, 2018
+- HIT People Scholarship Award, 2018
