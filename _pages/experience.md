@@ -11,10 +11,11 @@ Experience
 ======
 
 
-*  Research Intern - Alibaba Institute for Intelligent Computing, Data Analytics and Intelligence Lab
+* Research Intern - Alibaba Institute for Intelligent Computing, Data Analytics and Intelligence Lab
   * Systems for building LLM applications
   * Working with [Rong Zhu](https://redgitcard.github.io/redgitcard/) and [Bolin Ding](https://bolinding.github.io/index.html)
-*  Research Intern - Huawei cloud PaaS Lab
+
+* Research Intern - Huawei cloud PaaS Lab
   * Improving the code-LLM's performance via code knowledge graph
   * Working with: Xilin Liu and Yuchi Ma
 
