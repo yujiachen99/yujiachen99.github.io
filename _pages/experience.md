@@ -11,7 +11,7 @@ Experience
 ======
 
 
-* Research Intern - Alibaba Institute for Intelligent Computing, Data Analytics and Intelligence Lab
+* **Research Intern** - *Alibaba Institute for Intelligent Computing, Data Analytics and Intelligence Lab*
   * Systems for building LLM applications
   * Working with [Rong Zhu](https://redgitcard.github.io/redgitcard/) and [Bolin Ding](https://bolinding.github.io/index.html)
 
@@ -19,7 +19,7 @@ Experience
   * Improving the code-LLM's performance via code knowledge graph
   * Working with: Xilin Liu and Yuchi Ma
 
-* Database system developer Intern - PingCAP
+* **Database system developer Intern** - *PingCAP, TIDB Group*
   * Optimizing hotspot small tables
   * Working with: [Tiancai Mao](https://github.com/tiancaiamao)
 
