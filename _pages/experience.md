@@ -11,19 +11,16 @@ Experience
 ======
 
 
-* Mar. 2024 - Present: Research Intern
-  * Alibaba Data Analytics and Intelligence Lab (DAIL), Hangzhou, China.
-  * Designing systems for building LLM applications
-  * Working with [Dr. Rong Zhu](https://redgitcard.github.io/redgitcard/) and [Dr. Bolin Ding](https://bolinding.github.io/index.html)
-* Aug. 2023 - Dec. 2023: Research Intern
-  * Huawei cloud PaaS Lab, ShenZhen, China.
+*  Research Intern - Alibaba Institute for Intelligent Computing, Data Analytics and Intelligence Lab
+  * Systems for building LLM applications
+  * Working with [Rong Zhu](https://redgitcard.github.io/redgitcard/) and [Bolin Ding](https://bolinding.github.io/index.html)
+*  Research Intern - Huawei cloud PaaS Lab
   * Improving the code-LLM's performance via code knowledge graph
-  * Working with: Mr. Xilin Liu and Dr. Yuchi Ma
+  * Working with: Xilin Liu and Yuchi Ma
 
-* Sept. 2021 - Dec. 2021: Database system developer Intern
-  * PingCAP, Remote.
+* Database system developer Intern - PingCAP
   * Optimizing hotspot small tables
-  * Working with: [Mr. Tiancai Mao](https://github.com/tiancaiamao)
+  * Working with: [Tiancai Mao](https://github.com/tiancaiamao)
 
 
 Honors and Awards
