@@ -15,7 +15,7 @@ author_profile: true
   * Systems for building LLM applications
   * Working with [Rong Zhu](https://redgitcard.github.io/redgitcard/) and [Bolin Ding](https://bolinding.github.io/index.html)
 
-* **Research Intern** - *Huawei cloud PaaS Lab*
+* **Research Intern** - *Huawei Cloud, PaaS Technology Innovation Lab*
   * Improving the code-LLM's performance via code knowledge graph
   * Working with: Xilin Liu and Yuchi Ma
 
