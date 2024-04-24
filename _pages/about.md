@@ -15,7 +15,7 @@ I am always open for possible collaborations, and visiting opportunities, please
 My research interests mainly focus on **AI + Software Engineering**, particularly *Large Language Models (LLMs)*, *Source code understanding*, *Recommendation*
 
 #  News
-- *2024.03* 💥💥 One Paper "Bridge and Hint: Extending Pre-trained Language Models for Long-Range Code"" is accepted by ISSTA 2024!
+- *2024.03* 💥💥 One Paper "Bridge and Hint: Extending Pre-trained Language Models for Long-Range Code" is accepted by ISSTA 2024!
 - *2024.02* 💥💥 One Paper "ReposVul: A Repository-Level High-Quality Vulnerability Dataset" is accepted by ICSE-Inch 2024! *<font color="#8B0000">🏆 Best Paper Award of the Track</font>*
 - *2023.12* 💥💥 One Paper "APIGen: Generative API Method Recommendation" is accepted by SANER 2024!
 - *2023.03* 💥💥 One Paper "API Usage Recommendation via Multi-View Heterogeneous Graph Representation Learning" is accepted by TSE 2023!
