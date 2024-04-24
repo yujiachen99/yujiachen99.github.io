@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a First-year Ph.D. student in the School of Computer Science and Engineering at [Harbin Institute of Technology, Shenzhen](http://cs.hitsz.edu.cn/), advised by Prof. [Cuiyun Gao](https://cuiyungao.github.io/). I got my Master degree from Harbin Institute of Technology, Shenzhen in March 2023, under the supervision of Prof. Cuiyun Gao. Before that, I received my Bachelor's degree from Harbin Institute of Technology in June 2020. 
+I'm a First-year Ph.D. student in the School of Computer Science and Technology at [Harbin Institute of Technology, Shenzhen](http://cs.hitsz.edu.cn/), advised by Prof. [Cuiyun Gao](https://cuiyungao.github.io/). I got my Master degree from Harbin Institute of Technology, Shenzhen in March 2023, under the supervision of Prof. Cuiyun Gao. Before that, I received my Bachelor's degree from Harbin Institute of Technology in June 2020. 
 
 I am always open for possible collaborations, and visiting opportunities, please do not hesitate to [contact me](yujiachen@stu.hit.edu.cn) if you are interested!
 # Interests
