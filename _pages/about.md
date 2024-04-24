@@ -24,7 +24,7 @@ My research interests mainly focus on **AI + Software Engineering**, particularl
 - **<font color="#ea6eaf">[ISSTA’24]</font>** Bridge and Hint: Extending Pre-trained Language Models for Long-Range Code   
 **Yujia Chen**, Cuiyun Gao*, Zezhou Yang, Hongyu Zhang, Qing Liao
 
-- **<font color="#ea6eaf">[TSE'23]</font>** API Usage Recommendation via Multi-View Heterogeneous Graph  epresentation Learning   
+- **<font color="#ea6eaf">[TSE'23]</font>** API Usage Recommendation via Multi-View Heterogeneous Graph  Representation Learning   
 **Yujia Chen**, Cuiyun Gao*, Xiaoxue Ren, Yun Peng, Xin Xia, and Michael R. Lyu
 
 # Academic Services
