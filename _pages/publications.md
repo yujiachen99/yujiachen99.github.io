@@ -16,10 +16,6 @@ author_profile: true
 - **<font color="#ea6eaf">[FSE’25]</font>** AutoReview: An LLM-based Multi-Agent System for Security  Issue-Oriented Code Review   
 **Yujia Chen**. The ACM International Conference on the Founda­ tions of Software Engineering (FSE 2025, CCF-­A), Student Research Competition Track.
 
-Smaller but Better: Self­Paced Knowledge Distillation for Lightweight yet Effective LCMs   
-**Yujia Chen**, Yang Ye, Zhongqi Li, Yuchi Ma, Cuiyun Gao*. The ACM International Conference on the Founda­ tions of Software Engineering (FSE 2025, CCF-­A)
-
-
 **2024**
 
 - **<font color="#ea6eaf">[ISSTA’24]</font>** Bridge and Hint: Extending Pre-trained Language Models for Long-Range Code   
