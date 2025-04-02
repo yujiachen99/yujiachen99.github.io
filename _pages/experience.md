@@ -11,3 +11,6 @@ author_profile: true
   * Knowledge distillation of code large language model 
   * Working with: Zhongqi Li and Yuchi Ma
 
+## Awards
+
+* 方滨兴奖学金 *2024*
