@@ -10,7 +10,7 @@ locale                   : "CN"
 title                    : "Yujia Chen"
 title_separator          : "-"
 name                     : &name "Yujia Chen"
-description              : &description "The First year Ph.D. student @STAR, HITSZ, advised by Prof. Cuiyun Gao."
+description              : &description "The Second year Ph.D. student @STAR, HITSZ, advised by Prof. Cuiyun Gao."
 url                      : https://yujiachen99.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yujiachen99/yujiachen99.github.io" # TODO
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yujia Chen"
   avatar           : "me.jpg"
-  bio              : "The First-year Ph.D. student @STAR, HITSZ, advised by Prof. Cuiyun Gao."
+  bio              : "The Second-year Ph.D. student @STAR, HITSZ, advised by Prof. Cuiyun Gao."
   location         : "Shenzhen, China"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
