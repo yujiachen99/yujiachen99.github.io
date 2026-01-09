@@ -7,12 +7,21 @@ author_profile: true
 
 ## Journal Reviewer
 
+* ACM Transactions on Software Engineering and Methodology (TOSEM)
+
 * IEEE Transactions on Knowledge Discovery from Data (TKDE)
 
-* ACM Transactions on Software Engineering and Methodology (TOSEM)
+* Empirical Software Engineering (EMSE)
 
 * Knowledge-Based Systems (KBS)
 
+## Conference PC Members:
+
+* ICSE Shadow PC 2026
+
+* ChinaSoft 2025 (FORGE Special Issue)
+
+* ICPC RENE Track 2026
 
 ## Other Service
 
