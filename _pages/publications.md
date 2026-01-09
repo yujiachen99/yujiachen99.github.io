@@ -7,15 +7,15 @@ author_profile: true
 
 **2026**
 
-- **<font color="#ea6eaf">[ICSE-Inch’26]</font>** LLM-Based Test Case Generation in DBMS through Monte Carlo Tree Search
+- **<font color="#ea6eaf">[ICSE-Inch’26]</font>** LLM-Based Test Case Generation in DBMS through Monte Carlo Tree Search  
 **Yujia Chen**, Yingli Zhou, Fangyuan Zhang, Cuiyun Gao*. The International Conference on Software Engineering (ICSE 2026, CCF-A), Industry Challenge Track.
 
 **2025**
 
-- **<font color="#ea6eaf">[APSEC-Demo’25]</font>** Multi­view Leaderboard: Towards Evaluating the Code Intelligence of LLMs From Multiple Views
+- **<font color="#ea6eaf">[APSEC-Demo’25]</font>** Multi­view Leaderboard: Towards Evaluating the Code Intelligence of LLMs From Multiple Views  
 Mengyuan Liu, Zexun Zhan, Cuiyun Gao*, **Yujia Chen**, Guoai Xu, Chun Yong Chong, Shan Gao, Xin Xia (APSEC 2025, CCF-­C), Tool Demo Track.
 
-- **<font color="#ea6eaf">[ASE-Industry’25]</font>** Automated Prompt Generation for Code Intelligence: An Empirical Study and Experience in WeChat
+- **<font color="#ea6eaf">[ASE-Industry’25]</font>** Automated Prompt Generation for Code Intelligence: An Empirical Study and Experience in WeChat  
 Kexing Ji, Shiyun Fu, Cuiyun Gao*, **Yujia Chen**, Zezhou Yang, Chaozheng Wang, Yuetang Deng. The IEEE/ACM International Conference on Automated Software Engineering (ASE 2025, CCF­-A), Industry Track.
 
 - **<font color="#ea6eaf">[FSE’25]</font>** Smaller but Better: Self-­Paced Knowledge Distillation for Lightweight yet Effective LCMs   
