@@ -15,7 +15,7 @@ author_profile: true
 
 * Knowledge-Based Systems (KBS)
 
-## Conference PC Members:
+## Conference PC Member
 
 * ICSE Shadow PC 2026
 
