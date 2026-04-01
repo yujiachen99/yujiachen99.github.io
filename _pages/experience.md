@@ -14,6 +14,8 @@ author_profile: true
 
 ## Awards
 
+* Distinguished Paper Award, ICSE 2026 Industry Challenge Track (CCF-­A) ­ 
+
 * National Scholarship Award, 2025  
 
 * Merit Student of Heilongjiang Province, 2025  

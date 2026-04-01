@@ -8,12 +8,13 @@ author_profile: true
 **2026**
 
 - **<font color="#ea6eaf">[ICSE-Inch’26]</font>** LLM-Based Test Case Generation in DBMS through Monte Carlo Tree Search  
-**Yujia Chen**, Yingli Zhou, Fangyuan Zhang, Cuiyun Gao*. The International Conference on Software Engineering (ICSE 2026, CCF-A), Industry Challenge Track.
+**Yujia Chen**, Yingli Zhou, Fangyuan Zhang, Cuiyun Gao*. The International Conference on Software Engineering (ICSE 2026, CCF-A), Industry Challenge Track. *<font color="#8B0000">🏆 Distinguished Paper Award of the Track</font>*
 
 **2025**
 
 - **<font color="#ea6eaf">[APSEC-Demo’25]</font>** Multi­view Leaderboard: Towards Evaluating the Code Intelligence of LLMs From Multiple Views  
-Mengyuan Liu, Zexun Zhan, Cuiyun Gao*, **Yujia Chen**, Guoai Xu, Chun Yong Chong, Shan Gao, Xin Xia (APSEC 2025, CCF-­C), Tool Demo Track.
+Mengyuan Liu, Zexun Zhan, Cuiyun Gao*, **Yujia Chen**, Guoai Xu, Chun Yong Chong, Shan Gao, Xin Xia (APSEC 2025, CCF-­C), Tool Demo Track. *<font color="#8B0000">🏆 Best Paper Award of the Track</font>*
+
 
 - **<font color="#ea6eaf">[ASE-Industry’25]</font>** Automated Prompt Generation for Code Intelligence: An Empirical Study and Experience in WeChat  
 Kexing Ji, Shiyun Fu, Cuiyun Gao*, **Yujia Chen**, Zezhou Yang, Chaozheng Wang, Yuetang Deng. The IEEE/ACM International Conference on Automated Software Engineering (ASE 2025, CCF­-A), Industry Track.
@@ -33,7 +34,7 @@ Kexing Ji, Shiyun Fu, Cuiyun Gao*, **Yujia Chen**, Zezhou Yang, Chaozheng Wang, 
 **Yujia Chen**, Cuiyun Gao*, Zezhou Yang, Hongyu Zhang, Qing Liao. The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2024, CCF-A)
 
 - **<font color="#ea6eaf">[ICSE-Inch’24]</font>** ReposVul: A Repository-Level High-Quality Vulnerability Dataset  
-Xinchen Wang, Ruida Hu, Cuiyun Gao*, Xin-Cheng Wen, **Yujia Chen**, Qing Liao. The International Conference on Software Engineering (ICSE 2024, CCF-A), Industry Challenge Track.
+Xinchen Wang, Ruida Hu, Cuiyun Gao*, Xin-Cheng Wen, **Yujia Chen**, Qing Liao. The International Conference on Software Engineering (ICSE 2024, CCF-A), Industry Challenge Track. *<font color="#8B0000">🏆 Best Paper Award of the Track</font>*
 
 - **<font color="#ea6eaf">[SANER’24]</font>** APIGen: Generative API Method Recommendation   
 **Yujia Chen**, Cuiyun Gao*, Muyijie Zhu, Qing Liao, Yong Wang, Guoai Xu. The IEEE International Conference on Software Analysis, Evolution and Reengineering (SNAER 2024, CCF-B)
