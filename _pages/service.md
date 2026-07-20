@@ -9,6 +9,8 @@ author_profile: true
 
 * ACM Transactions on Software Engineering and Methodology (TOSEM)
 
+* IEEE Transactions on Software Engineering (TSE)
+
 * IEEE Transactions on Knowledge Discovery from Data (TKDE)
 
 * Empirical Software Engineering (EMSE)

@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Third-year Ph.D. candidate in the School of Computer Science and Technology at [Harbin Institute of Technology, Shenzhen](http://cs.hitsz.edu.cn/), advised by Prof. [Cuiyun Gao](https://cuiyungao.github.io/). I am currently visiting Singapore Management University (SMU), supervised by Prof. [David Lo](http://www.mysmu.edu/faculty/davidlo/). I got my Master degree from Harbin Institute of Technology, Shenzhen in March 2023, under the supervision of Prof. Cuiyun Gao. Before that, I received my Bachelor's degree from Harbin Institute of Technology in June 2020.
+I'm a Third-year Ph.D. candidate in the School of Computer Science and Technology at [Harbin Institute of Technology, Shenzhen](http://cs.hitsz.edu.cn/), advised by Prof. [Cuiyun Gao](https://cuiyungao.github.io/). I am currently visiting Singapore Management University (SMU), supervised by Prof. [David Lo](http://www.mysmu.edu/faculty/davidlo/). I received both my Master's and Bachelor's degrees from Harbin Institute of Technology.
 
 I am always open for possible collaborations, and visiting opportunities, please do not hesitate to [contact me](yujiachen@stu.hit.edu.cn) if you are interested!
 # Interests
