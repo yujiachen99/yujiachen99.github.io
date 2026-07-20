@@ -3,6 +3,7 @@ layout: archive
 title: "Experience & Awards"
 permalink: /experience/
 author_profile: true
+show_title: false
 ---
 
 ## Experience
@@ -27,4 +28,3 @@ author_profile: true
 * Travel Grant, FSE 2025 (CCF­-A) and Internetware 2024 (CCF-­C) ­ 
 
 * Binxing Fang Scholarship Award, 2024 (only 3 recipients)  
-
