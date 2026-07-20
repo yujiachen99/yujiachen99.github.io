@@ -17,6 +17,10 @@ author_profile: true
 
 ## Conference PC Member
 
+* ICDM 2026
+
+* KDD AI4Science Track 2026, 2027
+
 * ICSE Shadow PC 2026
 
 * ChinaSoft 2025 (FORGE Special Issue)
