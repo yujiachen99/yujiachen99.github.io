@@ -11,8 +11,8 @@ redirect_from:
 I'm a Third-year Ph.D. candidate in the School of Computer Science and Technology at [Harbin Institute of Technology, Shenzhen](http://cs.hitsz.edu.cn/), advised by Prof. [Cuiyun Gao](https://cuiyungao.github.io/). I am currently visiting Singapore Management University (SMU), supervised by Prof. [David Lo](http://www.mysmu.edu/faculty/davidlo/). I received both my Master's and Bachelor's degrees from Harbin Institute of Technology.
 
 I am always open for possible collaborations, and visiting opportunities, please do not hesitate to [contact me](yujiachen@stu.hit.edu.cn) if you are interested!
-# Interests
-My research interests mainly focus on **AI + Software Engineering**, particularly *Large Language Models (LLMs)*, *Source code understanding*, *Recommendation*
+# Research Interests
+My research lies at the intersection of **Artificial Intelligence and Software Engineering (AI4SE)**, with a particular focus on *large language models for code*, *code intelligence*, and *AI agents for software engineering*.
 
 #  News
 - *2026.04* 💥💥 🏆 Distinguished Paper Award, ICSE 2026 Industry Challenge Track！
