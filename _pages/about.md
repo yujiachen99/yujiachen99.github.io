@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Third-year Ph.D. candidate in the School of Computer Science and Technology at [Harbin Institute of Technology, Shenzhen](http://cs.hitsz.edu.cn/) (HIT), advised by Prof. [Cuiyun Gao](https://cuiyungao.github.io/). I am currently visiting Singapore Management University (SMU), supervised by Prof. [David Lo](http://www.mysmu.edu/faculty/davidlo/). I received both my Master's and Bachelor's degrees from HIT.
+I'm a final-year Ph.D. candidate in the School of Computer Science and Technology at [Harbin Institute of Technology, Shenzhen](http://cs.hitsz.edu.cn/) (HIT), advised by Prof. [Cuiyun Gao](https://cuiyungao.github.io/). I am currently visiting Singapore Management University (SMU), supervised by Prof. [David Lo](http://www.mysmu.edu/faculty/davidlo/). I received both my Master's and Bachelor's degrees from HIT.
 
-I am always open for possible collaborations, and visiting opportunities, please do not hesitate to [contact me](yujiachen@stu.hit.edu.cn) if you are interested!
+**I am actively seeking postdoctoral opportunities in AI for software engineering.** I also welcome research collaborations and visiting opportunities. Please feel free to [contact me](mailto:yujiachen@stu.hit.edu.cn) if you are interested!
 # Research Interests
 My research focuses on **AI4SE**, particularly *large language models for code*, *code intelligence*, and *AI agents for software engineering*.
 
