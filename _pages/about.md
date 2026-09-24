@@ -15,7 +15,11 @@ I am always open for possible collaborations, and visiting opportunities, please
 My research focuses on **AI4SE**, particularly *large language models for code*, *code intelligence*, and *AI agents for software engineering*.
 
 #  News
+- *2026.09* 💥💥 One Paper "ASTOR: Multi-Task Code Reinforcement Learning via Utility-Driven Coordination" is accepted by NeurIPS 2026!
+- *2026.09* 💥💥 One Paper "What Makes Effective Knowledge Distillation for Large Language Models in Code Generation?" is accepted by TSE 2026!
+- *2026.08* 💥💥 One Paper "Looks Right, Works Right: A Project-Level Benchmark for Multi-Screen Mobile App Generation" is accepted by EMNLP 2026!
 - *2026.04* 💥💥 *<font color="#8B0000">🏆 Distinguished Paper Award, ICSE 2026 Industry Challenge Track</font>*
+- *2026.02* 💥💥 One Paper "From Function to Repository: Towards Repository-Level Evaluation of Software Vulnerability Detection" is accepted by TSE 2026!
 - *2026.01* 💥💥 One Paper "LLM-Based Test Case Generation in DBMS through Monte Carlo Tree Search" is accepted by ICSE-Inch 2026! 
 - *2025.10* 💥💥 One Paper "Multi-view Leaderboard: Towards Evaluating the Code Intelligence of LLMs From Multiple Views" is accepted by APSEC-ToolDemo 2025! *<font color="#8B0000">🏆 Best Paper Award of the Track</font>*
 - *2025.09* 💥💥 One Paper "Automated Prompt Generation for Code Intelligence: An Empirical Study and Experience in WeChat" is accepted by ASE-Industry 2025!

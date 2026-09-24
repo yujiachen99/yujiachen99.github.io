@@ -8,6 +8,18 @@ show_title: false
 
 **2026**
 
+- **<font color="#ea6eaf">[NeurIPS’26]</font>** ASTOR: Multi-Task Code Reinforcement Learning via Utility-Driven Coordination  
+**Yujia Chen**, Yang Ye, Xiao Chu, Yuchi Ma, Cuiyun Gao\*. The Conference on Neural Information Processing Systems (NeurIPS 2026, CCF-A)
+
+- **<font color="#ea6eaf">[TSE’26]</font>** What Makes Effective Knowledge Distillation for Large Language Models in Code Generation?  
+**Yujia Chen**, Jian Dong, Zhongqi Li, Yuchi Ma, Cuiyun Gao\*. The IEEE Transactions on Software Engineering (TSE 2026, CCF-A)
+
+- **<font color="#ea6eaf">[EMNLP’26]</font>** Looks Right, Works Right: A Project-Level Benchmark for Multi-Screen Mobile App Generation  
+Fan Wu, Cuiyun Gao\*, Yiming Huang, Yang Xiao, **Yujia Chen**, Qing Liao. The Conference on Empirical Methods in Natural Language Processing (EMNLP 2026, CORE-A\*)
+
+- **<font color="#ea6eaf">[TSE’26]</font>** From Function to Repository: Towards Repository-Level Evaluation of Software Vulnerability Detection  
+Xin-Cheng Wen, Xinchen Wang, **Yujia Chen**, Ruida Hu, David Lo, Cuiyun Gao\*. The IEEE Transactions on Software Engineering (TSE 2026, CCF-A), 52(4): 1315–1331.
+
 - **<font color="#ea6eaf">[ICSE-Inch’26]</font>** LLM-Based Test Case Generation in DBMS through Monte Carlo Tree Search  
 **Yujia Chen**, Yingli Zhou, Fangyuan Zhang, Cuiyun Gao*. The International Conference on Software Engineering (ICSE 2026, CCF-A), Industry Challenge Track. *<font color="#8B0000">🏆 Distinguished Paper Award of the Track</font>*
 
