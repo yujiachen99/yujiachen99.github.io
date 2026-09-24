@@ -15,7 +15,7 @@ show_title: false
 **Yujia Chen**, Jian Dong, Zhongqi Li, Yuchi Ma, Cuiyun Gao\*. The IEEE Transactions on Software Engineering (TSE 2026, CCF-A)
 
 - **<font color="#ea6eaf">[EMNLP’26]</font>** Looks Right, Works Right: A Project-Level Benchmark for Multi-Screen Mobile App Generation  
-Fan Wu, Cuiyun Gao\*, Yiming Huang, Yang Xiao, **Yujia Chen**, Qing Liao. The Conference on Empirical Methods in Natural Language Processing (EMNLP 2026, CORE-A\*)
+Fan Wu, Cuiyun Gao\*, Yiming Huang, Yang Xiao, **Yujia Chen**, Qing Liao. The Conference on Empirical Methods in Natural Language Processing (EMNLP 2026, CCF-B)
 
 - **<font color="#ea6eaf">[TSE’26]</font>** From Function to Repository: Towards Repository-Level Evaluation of Software Vulnerability Detection  
 Xin-Cheng Wen, Xinchen Wang, **Yujia Chen**, Ruida Hu, David Lo, Cuiyun Gao\*. The IEEE Transactions on Software Engineering (TSE 2026, CCF-A), 52(4): 1315–1331.
